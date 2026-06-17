@@ -1,0 +1,24 @@
+# Build
+build/
+out/
+bin/
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+*.sln
+*.vcxproj*
+*.user
+
+# Executáveis
+*.exe
+
+# Logs
+*.log
