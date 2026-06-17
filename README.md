@@ -2,11 +2,11 @@
 
 Trabalho desenvolvido para o Grau B da disciplina de Processamento Gráfico da UNISINOS.
 
-## 👥 Integrantes do Grupo
+## Integrantes do Grupo
 
 - Gustavo Saraiva Lampert (trabalho feito de forma individual)
 
-## 🚀 Como executar
+## Como executar
 
 ### Pré-requisitos
 
@@ -21,11 +21,11 @@ Trabalho desenvolvido para o Grau B da disciplina de Processamento Gráfico da U
 3. Pressione **F7** para compilar
 4. Pressione **Shift + F5** para executar
 
-## 💡 Sobre o Programa
+## Sobre o Programa
 
 Jardim das Runas é um protótipo de jogo com mapa isométrico do tipo diamond desenvolvido em OpenGL. O jogador controla um espírito que deve ativar todas as runas espalhadas e alcançar o portal de saída enquanto desvia da corrupção espalhada pelo mapa.
 
-## 🎮 Controles
+## Controles
 
 | Tecla | Ação |
 |---------|---------|
@@ -40,7 +40,7 @@ Jardim das Runas é um protótipo de jogo com mapa isométrico do tipo diamond d
 | R | Reiniciar jogo |
 | ESC | Sair |
 
-## 📌 Regras do Jogo
+## Regras do Jogo
 
 - Colete as 10 runas espalhadas pelo mapa.
 - Após coletar todas as runas, o portal será ativado.
@@ -48,7 +48,7 @@ Jardim das Runas é um protótipo de jogo com mapa isométrico do tipo diamond d
 - Pisar em um tile de corrupção resulta em derrota.
 - A partida pode ser reiniciada a qualquer momento pressionando **R**.
 
-## 📂 Arquivos necessários
+## Arquivos necessários
 
 O projeto utiliza os seguintes recursos:
 
@@ -65,7 +65,7 @@ Além das bibliotecas utilizadas na disciplina:
 - GLM
 - stb_image
 
-## 📚 Referências
+## Referências
 
 - Template de README disponibilizado pelo professor.
 - Material e exemplos da disciplina de Processamento Gráfico.
